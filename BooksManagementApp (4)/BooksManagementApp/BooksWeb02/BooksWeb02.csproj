@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConceptArchitect.BookManagement.Repositories.Ado\ConceptArchitect.BookManagement.Repositories.Ado.csproj" />
+    <ProjectReference Include="..\ConceptArchitect.BookManagement\ConceptArchitect.BookManagement.csproj" />
+    <ProjectReference Include="..\ConceptArchitect.Utils\ConceptArchitect.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

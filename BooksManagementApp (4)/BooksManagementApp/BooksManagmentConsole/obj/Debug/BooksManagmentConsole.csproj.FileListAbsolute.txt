@@ -1,0 +1,7 @@
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe.config
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.pdb
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.AssemblyReference.cache
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb

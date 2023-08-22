@@ -1,0 +1,16 @@
+﻿@using ConceptArchitect.BookManagement
+@model Author
+
+
+<h2>About @Model.Name</h2>
+
+<div class='row'>
+    <div class='col col-md-4'>
+        <img src="@Model.Photo" class="author-details-photo"/>
+    </div>
+
+    <div class='col col-md-8'>
+        <h3>Biography</h3>
+        <p>@Model.Biography</p>
+    </div>
+</div>

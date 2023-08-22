@@ -1,0 +1,11 @@
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\bin\Debug\net6.0\ConceptArchitect.Utils.deps.json
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\bin\Debug\net6.0\ConceptArchitect.Utils.dll
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\bin\Debug\net6.0\ConceptArchitect.Utils.pdb
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.AssemblyInfoInputs.cache
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.AssemblyInfo.cs
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.csproj.CoreCompileInputs.cache
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.dll
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\refint\ConceptArchitect.Utils.dll
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.pdb
+C:\Users\movvasu\OneDrive - Ecolab\Documents\Training\cs-projects\Vivek\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ref\ConceptArchitect.Utils.dll

@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConceptArchitect.BookManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ConceptArchitect.Data": "1.0.0",
+          "ConceptArchitect.Utils": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConceptArchitect.BookManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConceptArchitect.BookManagement.dll": {}
+        }
+      },
+      "ConceptArchitect.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConceptArchitect.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConceptArchitect.Data.dll": {}
+        }
+      },
+      "ConceptArchitect.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConceptArchitect.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConceptArchitect.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConceptArchitect.BookManagement/1.0.0": {
+      "type": "project",
+      "path": "../ConceptArchitect.BookManagement/ConceptArchitect.BookManagement.csproj",
+      "msbuildProject": "../ConceptArchitect.BookManagement/ConceptArchitect.BookManagement.csproj"
+    },
+    "ConceptArchitect.Data/1.0.0": {
+      "type": "project",
+      "path": "../ConceptArchitect.Data/ConceptArchitect.Data.csproj",
+      "msbuildProject": "../ConceptArchitect.Data/ConceptArchitect.Data.csproj"
+    },
+    "ConceptArchitect.Utils/1.0.0": {
+      "type": "project",
+      "path": "../ConceptArchitect.Utils/ConceptArchitect.Utils.csproj",
+      "msbuildProject": "../ConceptArchitect.Utils/ConceptArchitect.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ConceptArchitect.BookManagement >= 1.0.0",
+      "ConceptArchitect.Utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aggarad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement.Repositories.Ado\\ConceptArchitect.BookManagement.Repositories.Ado.csproj",
+      "projectName": "ConceptArchitect.BookManagement.Repositories.Ado",
+      "projectPath": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement.Repositories.Ado\\ConceptArchitect.BookManagement.Repositories.Ado.csproj",
+      "packagesPath": "C:\\Users\\aggarad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement.Repositories.Ado\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aggarad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj": {
+              "projectPath": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj"
+            },
+            "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj": {
+              "projectPath": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

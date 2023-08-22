@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConceptArchitect.BookManagement.Repositories.Ado/1.0.0": {
+        "dependencies": {
+          "ConceptArchitect.BookManagement": "1.0.0",
+          "ConceptArchitect.Utils": "1.0.0"
+        },
+        "runtime": {
+          "ConceptArchitect.BookManagement.Repositories.Ado.dll": {}
+        }
+      },
+      "ConceptArchitect.BookManagement/1.0.0": {
+        "dependencies": {
+          "ConceptArchitect.Data": "1.0.0",
+          "ConceptArchitect.Utils": "1.0.0"
+        },
+        "runtime": {
+          "ConceptArchitect.BookManagement.dll": {}
+        }
+      },
+      "ConceptArchitect.Data/1.0.0": {
+        "runtime": {
+          "ConceptArchitect.Data.dll": {}
+        }
+      },
+      "ConceptArchitect.Utils/1.0.0": {
+        "runtime": {
+          "ConceptArchitect.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConceptArchitect.BookManagement.Repositories.Ado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConceptArchitect.BookManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConceptArchitect.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConceptArchitect.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

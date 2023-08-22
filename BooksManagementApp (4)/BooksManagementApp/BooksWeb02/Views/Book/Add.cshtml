@@ -1,0 +1,33 @@
+﻿@using ConceptArchitect.BookManagement
+@model Book
+
+<h2>Add New Book</h2>
+
+
+<form asp-action="Add" method="POST">
+
+    <label asp-for="@Model.Id" class='form-label'>Id</label>
+    <input type='text' name="Id" value="@Model.Id" class='form-control' />
+
+    <label asp-for="@Model.Title" class='form-label'>Title</label>
+    <input type='text' name="Title" value="@Model.Title" class='form-control' />
+
+
+
+    <label asp-for="@Model.Description" class='form-label'>Description</label>
+    <input type='text' name="Description" value="@Model.Description" class='form-control' />
+
+    <label asp-for="@Model.Cover_Photo" class='form-label'>Cover Photo</label>
+    <input type='text' name="Cover_Photo" value="@Model.Cover_Photo" class='form-control' />
+
+    <label asp-for="@Model.Author_Id" class='form-label'>Author Id</label>
+    <input type='text' name="Author_Id" value="@Model.Author_Id" class='form-control' />
+
+
+
+
+    <div>
+
+        <input type="submit" value="Add Book" class='btn btn-primary form-control' />
+    </div>
+</form>

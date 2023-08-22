@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFyJpgxBhwe0jdR3tn2mlCGu+jRmwS62wQgz6vyahDj2n9KrBK5YW7zxsF4RLv+bazdSpYAfBsAFeOlBAgnqTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aggarad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\aggarad\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\aggarad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
