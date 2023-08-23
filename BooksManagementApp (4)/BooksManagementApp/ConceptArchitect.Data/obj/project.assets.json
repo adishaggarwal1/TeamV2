@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aggarad\\.nuget\\packages\\": {}
+    "C:\\Users\\movvasu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
+      "projectUniqueName": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
       "projectName": "ConceptArchitect.Data",
-      "projectPath": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
-      "packagesPath": "C:\\Users\\aggarad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aggarad\\Downloads\\SelfProject\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\obj\\",
+      "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
+      "packagesPath": "C:\\Users\\movvasu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aggarad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\movvasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
