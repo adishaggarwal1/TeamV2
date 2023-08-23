@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Bookimg.jpg",
+      "PackagePath": "staticwebassets\\images\\Bookimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Ecolab logo.png",
+      "PackagePath": "staticwebassets\\images\\Ecolab logo.png"
+    },
+    {
+      "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\HomePage.jpg",
+      "PackagePath": "staticwebassets\\images\\HomePage.jpg"
+    },
+    {
       "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

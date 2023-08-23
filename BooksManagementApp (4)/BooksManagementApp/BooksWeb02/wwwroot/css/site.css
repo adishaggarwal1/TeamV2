@@ -1,31 +1,132 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 
-.author-details-photo{
-    width:250px;
-    border:15px solid black;
-    padding:5px;
-    box-shadow:-5px -5px 5px gray;
-    border-radius:20px;
+.author-details-photo {
+    width: 250px;
+    border: 15px solid black;
+    padding: 5px;
+    box-shadow: -5px -5px 5px gray;
+    border-radius: 20px;
 }
 
-input[type=submit]
-{
-    margin-top:15px;
+input[type=submit] {
+    margin-top: 15px;
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+    #navbar ul li a {
+        text-decoration: none;
+        display: block;
+        padding: 3px 12px;
+        border-radius: 20px;
+        color: white;
+    }
+
+.logo {
+    margin: 0px 18px;
+}
+
+    .logo img {
+        height: 59px;
+        margin: 3px 6px;
+    }
+
+#navbar {
+    position: relative;
+    font-family: "Bree Serif", serif;
+}
+
+    #navbar::before {
+        content: "";
+        background-color: black;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        height: 100%;
+        width: 100%;
+        z-index: -1;
+        opacity: 0.89;
+    }
+
+    #navbar ul {
+        display: flex;
+    }
+
+        #navbar ul li {
+            list-style: none;
+            font-size: 1.1rem;
+        }
+
+            #navbar ul li a:hover {
+                color: black;
+                background-color: lightgreen;
+            }
+
+#home {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    height: 570px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Baloo Thambi 2", cursive;
+    font-weight: bold;
+}
+
+    #home::before {
+        content: "";
+        background-image: url("../images/HomePage.jpg");
+        background-repeat: no-repeat;
+        position: absolute;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        z-index: -1;
+        opacity: 0.8;
+    }
+
+    #home h1 {
+        text-align: center;
+        color: black;
+        font-size: 2.5rem;
+    }
+
+    #home p {
+        text-align: center;
+        color: black;
+        font-size: 1.3rem;
+    }
+
+    #home .btn:hover {
+        background-color: lightgreen;
+    }
+
+
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    height: fit-content;
 }
