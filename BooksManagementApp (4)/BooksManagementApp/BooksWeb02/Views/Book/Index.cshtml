@@ -16,7 +16,7 @@
                     <h5 class="card-title">@book.Title</h5>
                     <p class="card-text">book description</p>
                     <a asp-action="details" asp-route-id="@book.Id" class="btn  btn-primary">details</a>
-                    <a asp-action="delete" asp-route-id="@book.Id" class="btn  btn-primary">delete</a>
+                    <a asp-action="delete" asp-route-id="@book.Id" class="btn  btn-primary" onclick="return confirm('Are you sure you want to delete this item?')">delete</a>
                     <a asp-action="edit" asp-route-id="@book.Id" class="btn  btn-primary">edit</a>
                 </div>
             </div>

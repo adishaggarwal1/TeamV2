@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ConceptArchitect.BookManagement
 {
-    
+
 
     public class BookManager
     {

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BooksWeb02.Controllers
 {
-    public class BookController:Controller
+    public class BookController : Controller
     {
         IBookService bookService;
         public BookController(IBookService books)

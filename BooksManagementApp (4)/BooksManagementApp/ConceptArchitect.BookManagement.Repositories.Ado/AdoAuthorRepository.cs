@@ -17,7 +17,7 @@ namespace ConceptArchitect.BookManagement.Repositories.Ado
         {
             var query = $"insert into authors(id,name,biography,photo,email) " +
                               $"values('{author.Id}','{author.Name}','{author.Biography}','{author.Photo}','{author.Email}')";
-            
+
             await db.ExecuteUpdateAsync(query);
 
             return author;
@@ -51,9 +51,9 @@ namespace ConceptArchitect.BookManagement.Repositories.Ado
             var authors = await GetAll();
 
             return (from author in authors
-                   where predicate(author)
-                   select author).ToList();
-            
+                    where predicate(author)
+                    select author).ToList();
+
         }
 
         public async Task<Author> GetById(string id)
@@ -63,8 +63,8 @@ namespace ConceptArchitect.BookManagement.Repositories.Ado
 
         public async Task<Author> Update(Author entity, Action<Author, Author> mergeOldNew)
         {
-            var oldAuthor =await GetById(entity.Id);
-            if(oldAuthor!=null)
+            var oldAuthor = await GetById(entity.Id);
+            if (oldAuthor != null)
             {
                 mergeOldNew(oldAuthor, entity);
                 var query = $"update authors set " +
@@ -79,7 +79,7 @@ namespace ConceptArchitect.BookManagement.Repositories.Ado
 
             return entity;
 
-            
+
 
         }
     }

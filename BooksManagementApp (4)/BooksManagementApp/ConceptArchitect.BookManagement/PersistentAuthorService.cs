@@ -12,7 +12,7 @@ namespace ConceptArchitect.BookManagement
         IRepository<Author, string> repository;
 
         //constructor based DI
-        public PersistentAuthorService(IRepository<Author,string> repository)
+        public PersistentAuthorService(IRepository<Author, string> repository)
         {
             this.repository = repository;
         }
@@ -35,7 +35,7 @@ namespace ConceptArchitect.BookManagement
         private async Task<string> GenerateId(string name)
         {
             var id = name.ToLower().Replace(" ", "-");
-            
+
             if (await repository.GetById(id) == null)
                 return id;
 
@@ -44,7 +44,7 @@ namespace ConceptArchitect.BookManagement
                 d++;
 
             return $"{id}-{d}";
-            
+
         }
 
         public async Task DeleteAuthor(string authorId)
@@ -52,7 +52,7 @@ namespace ConceptArchitect.BookManagement
             await repository.Delete(authorId);
         }
 
-        public async Task< List<Author>> GetAllAuthors()
+        public async Task<List<Author>> GetAllAuthors()
         {
             return await repository.GetAll();
         }
@@ -71,13 +71,13 @@ namespace ConceptArchitect.BookManagement
 
         public async Task<Author> UpdateAuthor(Author author)
         {
-            
+
             return await repository.Update(author, (old, newDetails) =>
             {
                 old.Name = newDetails.Name;
                 old.Email = newDetails.Email;
                 old.Biography = newDetails.Biography;
-                old.Photo=newDetails.Photo;
+                old.Photo = newDetails.Photo;
             });
         }
     }

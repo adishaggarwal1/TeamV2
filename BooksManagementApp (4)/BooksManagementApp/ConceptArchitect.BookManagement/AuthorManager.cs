@@ -34,7 +34,7 @@ namespace ConceptArchitect.BookManagement
 
         public List<Author> GetAllAuthors()
         {
-            return db.Query("select * from authors", AuthorExtractor);            
+            return db.Query("select * from authors", AuthorExtractor);
         }
 
         public async Task<List<Author>> GetAllAuthorsAsync()
@@ -54,9 +54,9 @@ namespace ConceptArchitect.BookManagement
             return db.QueryScalar<int>("select count(*) from authors");
         }
 
-        public List<Author> Search(string text, int skip=0, int take=0)
+        public List<Author> Search(string text, int skip = 0, int take = 0)
         {
-            var query= $"select * from authors where name like '%{text}%' or biography like '%{text}%'";
+            var query = $"select * from authors where name like '%{text}%' or biography like '%{text}%'";
 
             return db.Query(query, AuthorExtractor, skip, take);
         }
@@ -81,17 +81,17 @@ namespace ConceptArchitect.BookManagement
                 else
                     throw;
             }
-            
+
         }
 
 
 
         public void RemoveAuthor(string id)
         {
-                var deleteCount = db.ExecuteUpdate($"delete from authors where id='{id}'");
+            var deleteCount = db.ExecuteUpdate($"delete from authors where id='{id}'");
 
-                if (deleteCount == 0)
-                    throw new InvalidIdException<string>() { Id = id };
+            if (deleteCount == 0)
+                throw new InvalidIdException<string>() { Id = id };
 
         }
 

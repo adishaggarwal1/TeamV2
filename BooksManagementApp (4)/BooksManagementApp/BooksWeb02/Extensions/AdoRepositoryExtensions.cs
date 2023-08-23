@@ -12,18 +12,18 @@ namespace BooksWeb02.Extensions
         public static IServiceCollection AddAdoBMSRepository(this IServiceCollection services)
         {
             services.AddSingleton<Func<IDbConnection>>(provider =>
-           {
-               var config = provider.GetService<IConfiguration>();
-               var connectionString = config.GetConnectionString("bms");
+            {
+                var config = provider.GetService<IConfiguration>();
+                var connectionString = config.GetConnectionString("bms");
 
-               return () =>
-               {
-                   var connection = new SqlConnection();
-                   connection.ConnectionString = connectionString;
-                   connection.Open();
-                   return connection;
-               };
-           });
+                return () =>
+                {
+                    var connection = new SqlConnection();
+                    connection.ConnectionString = connectionString;
+                    connection.Open();
+                    return connection;
+                };
+            });
 
             services.AddSingleton<DbManager>();
 

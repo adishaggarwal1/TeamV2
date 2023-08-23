@@ -19,6 +19,6 @@ namespace ConceptArchitect.BookManagement
 
         Task<List<Author>> SearchAuthors(string term);
 
-        
+
     }
 }
