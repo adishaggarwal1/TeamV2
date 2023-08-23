@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PRHzYKTdz/aKozEBGG9gfc01ln7gPYiyO7j6EUfGGqw=",
+  "Hash": "4Ja2iOD3AUHseLbQHRY5gS0fD++AmO/tdMcR37lS36k=",
   "Source": "BooksWeb02",
   "BasePath": "_content/BooksWeb02",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BooksWeb02\\wwwroot",
       "Source": "BooksWeb02",
-      "ContentRoot": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css",
+      "Identity": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css",
       "SourceId": "BooksWeb02",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "BooksWeb02.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css"
+      "OriginalItemSpec": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css"
     },
     {
-      "Identity": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
+      "Identity": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
       "SourceId": "BooksWeb02",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "BooksWeb02.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

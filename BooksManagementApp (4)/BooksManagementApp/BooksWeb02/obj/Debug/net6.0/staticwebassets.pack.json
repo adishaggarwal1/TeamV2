@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
+      "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
       "PackagePath": "staticwebassets\\BooksWeb02.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\movvasu\\OneDrive - Ecolab\\Documents\\Training\\cs-projects\\Vivek\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
