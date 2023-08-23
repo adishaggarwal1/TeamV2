@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {}
+    "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
+    "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
+        "projectUniqueName": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
         "projectName": "ConceptArchitect.Data",
-        "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
-        "packagesPath": "C:\\Users\\movvasu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\obj\\",
+        "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
+        "packagesPath": "C:\\Users\\priyap1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\movvasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\priyap1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj": {}
+    "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj": {
+    "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
+        "projectUniqueName": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
         "projectName": "AuthorManagementConsole",
-        "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
-        "packagesPath": "C:\\Users\\movvasu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\obj\\",
+        "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
+        "packagesPath": "C:\\Users\\priyap1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\movvasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\priyap1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj": {
-                "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj"
+              "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj": {
+                "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj"
               }
             }
           }
@@ -69,17 +69,17 @@
         }
       }
     },
-    "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj": {
+    "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj",
+        "projectUniqueName": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj",
         "projectName": "ConceptArchitect.BookManagement",
-        "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj",
-        "packagesPath": "C:\\Users\\movvasu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\obj\\",
+        "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj",
+        "packagesPath": "C:\\Users\\priyap1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\movvasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\priyap1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,11 +93,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
-                "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj"
+              "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
+                "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj"
               },
-              "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj": {
-                "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj"
+              "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj": {
+                "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj"
               }
             }
           }
@@ -131,17 +131,17 @@
         }
       }
     },
-    "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
+    "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
+        "projectUniqueName": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
         "projectName": "ConceptArchitect.Data",
-        "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
-        "packagesPath": "C:\\Users\\movvasu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\obj\\",
+        "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj",
+        "packagesPath": "C:\\Users\\priyap1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\movvasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\priyap1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,17 +186,17 @@
         }
       }
     },
-    "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj": {
+    "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj",
+        "projectUniqueName": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj",
         "projectName": "ConceptArchitect.Utils",
-        "projectPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj",
-        "packagesPath": "C:\\Users\\movvasu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\movvasu\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\obj\\",
+        "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\ConceptArchitect.Utils.csproj",
+        "packagesPath": "C:\\Users\\priyap1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\movvasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\priyap1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
