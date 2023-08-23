@@ -6,8 +6,8 @@
 
 <form asp-action="Update" method="POST">
 
-    <label asp-for="@Model.Id" class='form-label'>Id</label>
-    <input type='text' name="Id" value="@Model.Id" class='form-control' readonly />
+    <!--<label asp-for="@Model.Id" class='form-label'>Id</label>-->
+    <input type='hidden' name="Id" value="@Model.Id" class='form-control' readonly />
 
     <label asp-for="@Model.Title" class='form-label'>Title</label>
     <input type='text' name="Title" value="@Model.Title" class='form-control' />
