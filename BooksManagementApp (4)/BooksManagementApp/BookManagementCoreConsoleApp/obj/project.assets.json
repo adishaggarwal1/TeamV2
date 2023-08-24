@@ -673,19 +673,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\priyap1\\.nuget\\packages\\": {}
+    "C:\\Users\\roulpa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BookManagementCoreConsoleApp\\BookManagementCoreConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\roulpa\\source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BookManagementCoreConsoleApp\\BookManagementCoreConsoleApp.csproj",
       "projectName": "BookManagementCoreConsoleApp",
-      "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BookManagementCoreConsoleApp\\BookManagementCoreConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\priyap1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BookManagementCoreConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\roulpa\\source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BookManagementCoreConsoleApp\\BookManagementCoreConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\roulpa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BookManagementCoreConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\priyap1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\roulpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -699,11 +699,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj": {
-              "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj"
+            "C:\\Users\\roulpa\\source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj": {
+              "projectPath": "C:\\Users\\roulpa\\source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.BookManagement\\ConceptArchitect.BookManagement.csproj"
             },
-            "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
-              "projectPath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj"
+            "C:\\Users\\roulpa\\source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj": {
+              "projectPath": "C:\\Users\\roulpa\\source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\ConceptArchitect.Data\\ConceptArchitect.Data.csproj"
             }
           }
         }
@@ -743,7 +743,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
