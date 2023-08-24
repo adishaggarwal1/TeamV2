@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H6J8p5p+Koy7vcL9pbMu1kCNNcl7lAruVhEhNmzmnyFi5MciXk6T5k4HyvPEtTatE/D24EK/fdrsclyS344Z2w==",
+  "dgSpecHash": "Gc/QXN/7bKy5WT9LpwDjTs68P8bvU+P1cphZiqA9fiLCn9TRLSy6VoPP1U0cGnYFWHKK51s59tkx83r9Hk9+wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
+  "projectFilePath": "C:\\Users\\roulpa\\source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\priyap1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\priyap1\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
-    "C:\\Users\\priyap1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\roulpa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\roulpa\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\roulpa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

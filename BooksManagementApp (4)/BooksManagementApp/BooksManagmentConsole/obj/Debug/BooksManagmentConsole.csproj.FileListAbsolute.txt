@@ -12,3 +12,11 @@ C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\B
 C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
 C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
 C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe.config
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.pdb
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.AssemblyReference.cache
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb

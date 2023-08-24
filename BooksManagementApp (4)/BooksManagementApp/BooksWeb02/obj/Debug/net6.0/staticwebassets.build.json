@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3JWJ6du86hgEMTAYDw4rGmGUY6wJHY34nd+IVLPA5gs=",
+  "Hash": "SL1/mVKM/JWLbF9Kx0DnRcmBIR/VJWxfmcXL8R+L3k4=",
   "Source": "BooksWeb02",
   "BasePath": "_content/BooksWeb02",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BooksWeb02\\wwwroot",
       "Source": "BooksWeb02",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css",
       "SourceId": "BooksWeb02",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "BooksWeb02.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css"
+      "OriginalItemSpec": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BooksWeb02.styles.css"
     },
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
       "SourceId": "BooksWeb02",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "BooksWeb02.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Bookimg.jpg",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\AddAuthor1.jpg",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "BasePath": "_content/BooksWeb02",
+      "RelativePath": "images/AddAuthor1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\AddAuthor1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Bookimg.jpg",
+      "SourceId": "BooksWeb02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "images/Bookimg.jpg",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Bookimg.jpg"
     },
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Ecolab logo.png",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Ecolab logo.png",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "images/Ecolab logo.png",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Ecolab logo.png"
     },
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\HomePage.jpg",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\HomePage.jpg",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "images/HomePage.jpg",
       "AssetKind": "All",
@@ -136,10 +153,61 @@
       "OriginalItemSpec": "wwwroot\\images\\HomePage.jpg"
     },
     {
-      "Identity": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Reading1.jpg",
       "SourceId": "BooksWeb02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "BasePath": "_content/BooksWeb02",
+      "RelativePath": "images/Reading1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Reading1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\ReadingBook1.jpg",
+      "SourceId": "BooksWeb02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "BasePath": "_content/BooksWeb02",
+      "RelativePath": "images/ReadingBook1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ReadingBook1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\ReadingBook2.jpg",
+      "SourceId": "BooksWeb02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
+      "BasePath": "_content/BooksWeb02",
+      "RelativePath": "images/ReadingBook2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ReadingBook2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
+      "SourceId": "BooksWeb02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\",
       "BasePath": "_content/BooksWeb02",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

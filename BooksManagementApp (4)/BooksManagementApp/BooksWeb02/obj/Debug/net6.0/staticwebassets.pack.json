@@ -1,31 +1,47 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BooksWeb02.bundle.scp.css",
       "PackagePath": "staticwebassets\\BooksWeb02.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Bookimg.jpg",
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\AddAuthor1.jpg",
+      "PackagePath": "staticwebassets\\images\\AddAuthor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Bookimg.jpg",
       "PackagePath": "staticwebassets\\images\\Bookimg.jpg"
     },
     {
-      "Id": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Ecolab logo.png",
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Ecolab logo.png",
       "PackagePath": "staticwebassets\\images\\Ecolab logo.png"
     },
     {
-      "Id": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\HomePage.jpg",
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\HomePage.jpg",
       "PackagePath": "staticwebassets\\images\\HomePage.jpg"
     },
     {
-      "Id": "C:\\Users\\priyap1\\source\\repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\Reading1.jpg",
+      "PackagePath": "staticwebassets\\images\\Reading1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\ReadingBook1.jpg",
+      "PackagePath": "staticwebassets\\images\\ReadingBook1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\images\\ReadingBook2.jpg",
+      "PackagePath": "staticwebassets\\images\\ReadingBook2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roulpa\\Source\\Repos\\TeamV2\\BooksManagementApp (4)\\BooksManagementApp\\BooksWeb02\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

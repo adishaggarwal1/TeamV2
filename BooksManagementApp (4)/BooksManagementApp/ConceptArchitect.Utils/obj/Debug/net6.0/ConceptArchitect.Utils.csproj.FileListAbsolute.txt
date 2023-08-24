@@ -31,3 +31,15 @@ C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\C
 C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\refint\ConceptArchitect.Utils.dll
 C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.pdb
 C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ref\ConceptArchitect.Utils.dll
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\bin\Debug\net6.0\ConceptArchitect.Utils.deps.json
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\bin\Debug\net6.0\ConceptArchitect.Utils.dll
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\bin\Debug\net6.0\ConceptArchitect.Utils.pdb
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.csproj.AssemblyReference.cache
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.AssemblyInfoInputs.cache
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.AssemblyInfo.cs
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.csproj.CoreCompileInputs.cache
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.dll
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\refint\ConceptArchitect.Utils.dll
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ConceptArchitect.Utils.pdb
+C:\Users\roulpa\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\ConceptArchitect.Utils\obj\Debug\net6.0\ref\ConceptArchitect.Utils.dll
