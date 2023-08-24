@@ -1,0 +1,18 @@
+﻿@using ConceptArchitect.BookManagement
+@model User
+
+<div class="content" id="test">
+    <h1 style="color: rgb(62, 188, 234);">Registration Form</h1>
+    <form id="RegisterForm">
+        <input type="text" id="username" name="name" value="@Model.Name" placeholder="Username" required class='form-control' />
+        <br>
+        <input type="email" id="email" name="email" value="@Model.Email" placeholder="Email" required class='form-control' />
+        <br>
+        <input type="password" id="password" name="password" value="@Model.Password" placeholder="New Password" required class='form-control' />
+        <br>
+        <input type="text" id="profile_photo_url" name="profile_photo" value="@Model.Profile_Photo" placeholder="Profile Photo" required class='form-control' />
+        <br>
+        <button type="submit" class='btn btn-primary form-control'>Register</button>
+        <p>Already have an account? <a asp-action="login" asp-route-id="">Login here</a></p>
+    </form>
+</div>

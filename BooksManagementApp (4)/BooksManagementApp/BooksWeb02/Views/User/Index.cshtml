@@ -1,0 +1,13 @@
+﻿@using ConceptArchitect.BookManagement
+@model User
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section id="home">
+    <h1 class="h-primary">Welcome @Model.Name</h1>
+    <img src="@Model.Profile_Photo" height="30px" width="30px" />
+    @*<img src="~/images/HomePage.jpg" height=100% width=100%>*@
+
+</section>

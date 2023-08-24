@@ -43,12 +43,20 @@
                                asp-controller="Home"
                                asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item" style="float: right;">
+                            <button class="dropdown-button" onclick="toggleDropdown()">Members</button>
+                            <div id="dropdownOptions" class="dropdown-content">
+                                <a asp-controller="User" asp-action="Register">Register</a>
+                                <a asp-controller="User" asp-action="Login">Login</a>
+                            </div>
+                        </li>
+
                     </ul>
+
                 </div>
-            </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container" style="background-color=black;">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>

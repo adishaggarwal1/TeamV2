@@ -1,0 +1,14 @@
+﻿@using ConceptArchitect.BookManagement;
+@model User
+
+<div class="content" id="test">
+    <h1 style="color: rgb(62, 188, 234);">Login</h1>
+    <form id="LoginForm" method="POST">
+        <input type="email" id="email" name="email" value="" placeholder="Email" required class='form-control' />
+        <br>
+        <input type="password" id="password" name="password" value="" placeholder="Password" required class='form-control' />
+        <br>
+        <input class='btn btn-primary form-control' type="submit" value="Login" onclick="authenticate()" />
+        <p> New Here? <a asp-action="Login" asp-route-id="">Register Now</a></p>
+    </form>
+</div>

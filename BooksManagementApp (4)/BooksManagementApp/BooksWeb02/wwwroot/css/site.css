@@ -15,7 +15,6 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-color: black;
 }
 
 .author-details-photo {
@@ -84,6 +83,8 @@ input[type=submit] {
                 background-color: lightgreen;
             }
 
+
+
 #home {
     display: flex;
     flex-direction: column;
@@ -96,10 +97,10 @@ input[type=submit] {
 }
 
     #home::before {
+        background-color: #141619;
         content: "";
         background-image: url("../images/HomePage.jpg");
         background-repeat: no-repeat;
-        background-color: black;
         position: absolute;
         height: 100%;
         top: 0px;

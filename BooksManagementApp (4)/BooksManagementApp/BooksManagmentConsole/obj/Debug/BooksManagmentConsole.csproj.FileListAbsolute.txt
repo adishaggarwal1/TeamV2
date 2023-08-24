@@ -12,3 +12,10 @@ C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\B
 C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
 C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
 C:\Users\movvasu\Source\Repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb
+C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe.config
+C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe
+C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.pdb
+C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.AssemblyReference.cache
+C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
+C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
+C:\Users\priyap1\source\repos\TeamV2\BooksManagementApp (4)\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb
